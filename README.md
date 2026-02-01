@@ -1,4 +1,3 @@
 # Table10 
 This program is for Table 10.
-10 * 1 = 10
-
+I have to do this!
